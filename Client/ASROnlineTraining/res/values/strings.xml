@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ASROnlineTraining</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="command_prompt">Избери команда</string>
+
+    <string-array name="commands_array">
+        <item> ALARM </item>
+        <item> KALKULATOR </item>
+        <item> KALENDAR </item>
+        <item> KAMERA </item>
+        <item> PREZEMANJA </item>
+        <item> GALERIJA </item>
+        <item> INTERNET </item>
+        <item> MEJL </item>
+        <item> PORAKA </item>
+        <item> MUZIKA </item>
+        <item> IMENIK </item>
+        <item> POVIK </item>
+        <item> PODESUVANJA </item>
+        <item> VIFI </item>
+        <item> BLUTUT </item>
+        <item> DZIPIES </item>
+        <item> DATUM </item>
+        <item> MAPA </item>
+        <item> MARKET </item>
+        <item> VREME </item>
+        <item> VALUTI </item>
+        <item> CENI </item>
+        <item> JUTJUB </item>
+    </string-array>
+
+</resources>
